@@ -1,10 +1,12 @@
 # HTML5 e CSS3
 Aprenda HTMLL5, CCS3 e SEO
+## Licença
+Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para detalhes.
 ## Links indicados
 ### Planejamento
-[draw](http://cetic.br/)
+[cetic](https://www.cetic.br/)
 ### Wireframe
-[drae](https://app.diagrams.net/)
+[draw](https://app.diagrams.net/)
 ### Personal desiner
 [matheus da costa](http://matheusdacosta.art.br/)
 ### Tipografia
