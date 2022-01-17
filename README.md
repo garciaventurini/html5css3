@@ -11,3 +11,13 @@ Aprenda HTMLL5, CCS3 e SEO
 [google fonts](https://fonts.google.com/)
 ### Imagens
 [pixabay](https://pixabay.com/pt/)
+
+[icon-icons](https://icon-icons.com/pt/)
+
+[iconfinder](https://www.iconfinder.com/)
+
+[optmizilla](https://imagecompressor.com/pt/)
+### Validação W3C
+[html](https://validator.w3.org/)
+
+[css](https://jigsaw.w3.org/css-validator/)
